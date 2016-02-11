@@ -1,0 +1,23 @@
+b { 
+    font-weight: bold;
+    font-style: italic;
+}
+
+a:link, a:visited { 
+    color: (internal value);
+    text-decoration: underline;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: (internal value);
+}
+
+address { 
+    display: block;
+    font-style: italic;
+}
+area { 
+    display: none;
+}
+
